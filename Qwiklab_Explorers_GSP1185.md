@@ -1,4 +1,4 @@
-# Securing Container Builds || [GSP1185](Securing Container Builds) ||
+# Securing Container Builds || [GSP1185](https://www.cloudskillsboost.google/focuses/80692?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
